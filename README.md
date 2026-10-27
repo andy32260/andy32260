@@ -5,8 +5,6 @@ Second-year BSc Computer Science student at **Loughborough University**. I enjoy
 ## What I'm doing now
 
 - 💼 **Full Stack Developer Intern at Flok Jobs**, a hospitality shift-matching startup. I build React and TypeScript features, design in Figma and work in a Docker-based development environment.
-- 🎓 Studying Computer Science and practising data structures and algorithms alongside my projects.
-- 🔍 Applying for software engineering placements in 2027-28.
 
 ## Featured projects
 
