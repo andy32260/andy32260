@@ -1,6 +1,6 @@
 # Hi, I'm Andy Hoang 👋
 
-Second-year BSc Computer Science student at **Loughborough University** (graduating 2029), looking for a **12-month industrial placement starting 2027**. I enjoy building full-stack products end to end, from the database and API to a clean, accessible interface.
+Second-year BSc Computer Science student at **Loughborough University**. I enjoy building full-stack products end to end, from the database and API to a clean, accessible interface.
 
 ## What I'm doing now
 
