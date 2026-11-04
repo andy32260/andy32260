@@ -68,10 +68,6 @@ I enjoy building practical software end to end, from the database and API to a c
 
 ## 🚀 Featured Projects
 
-### [Tempo](https://github.com/andy32260/Tempo)
-AI study planner built in 4 hours at an MLH Hacktoberfest Hack Day with a team of three. Gemma 4 extracts deadlines and weekly timetables from photos and generates flashcards from lecture notes, then plans a week around the student's calendar. Gemma's output is validated by scheduling code, with a rule-based fallback and calendar (.ics) and Anki exports.
-`Python` `Flask` `JavaScript` `Gemma 4`
-
 ### [SpendSense](https://github.com/andy32260/SpendSense-)
 Full-stack personal finance tracker with JWT authentication, a user-scoped REST API and a recurring-subscription detection algorithm using fuzzy matching and confidence scoring, covered by automated tests.
 `Django REST Framework` `PostgreSQL` `React` `TypeScript`
@@ -79,6 +75,10 @@ Full-stack personal finance tracker with JWT authentication, a user-scoped REST 
 ### Kareeroo
 Gamified, AI-driven career app built by a team of five at a Microsoft-partnered hackathon. Used the Azure AI API to personalise opportunities by career path, with Supabase authentication and progress tracking.
 `React Native` `TypeScript` `Supabase` `Azure AI`
+
+### [Tempo](https://github.com/andy32260/Tempo)
+AI study planner built in 4 hours at an MLH Hacktoberfest Hack Day with a team of three. Gemma 4 extracts deadlines and weekly timetables from photos and generates flashcards from lecture notes, then plans a week around the student's calendar. Gemma's output is validated by scheduling code, with a rule-based fallback and calendar (.ics) and Anki exports.
+`Python` `Flask` `JavaScript` `Gemma 4`
 
 ### [Rayleigh Nails Spa Website](https://rayleighnailsspa.co.uk)
 Responsive 13-page site for a local business with image galleries, a lightbox and a carousel in vanilla JavaScript.
