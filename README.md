@@ -4,7 +4,7 @@
 💻 Full-Stack Developer Intern at **Flok Jobs**
 📍 UK
 
-I enjoy building practical software end to end, from the database and API to a clean and accessible interface, and applying AI where it solves a real problem.
+I enjoy building practical software end to end, from the database and API to a clean and accessible interface and applying AI where it solves a real problem.
 
 ---
 
