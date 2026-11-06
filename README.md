@@ -76,7 +76,7 @@ Full-stack personal finance tracker with JWT authentication, a user-scoped REST 
 Gamified, AI-driven career app built by a team of five at a Microsoft-partnered hackathon. Used the Azure AI API to personalise opportunities by career path, with Supabase authentication and progress tracking.
 `React Native` `TypeScript` `Supabase` `Azure AI`
 
-### [Tempo](https://github.com/andy32260/Tempo)
+### [Tempo]
 AI study planner built in 4 hours at an MLH Hacktoberfest Hack Day with a team of three. Gemma 4 extracts deadlines and weekly timetables from photos and generates flashcards from lecture notes, then plans a week around the student's calendar. Gemma's output is validated by scheduling code, with a rule-based fallback and calendar (.ics) and Anki exports.
 `Python` `Flask` `JavaScript` `Gemma 4`
 
